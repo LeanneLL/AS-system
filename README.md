@@ -10,7 +10,7 @@
 
    https://endoangel-info.com/checkpoint.zip
 
-   **When the download is complete, extract to the root directory of the file.**
+   **When the file is completely downloaded, extract the file to its root directory.**
 
    - The file directory is as follows
 
