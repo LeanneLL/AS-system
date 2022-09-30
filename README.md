@@ -39,7 +39,7 @@
      │  uie-main.py
      ```
 
-   3. Below is an example for assigning surveillance interval for different risk of patients
+   3. Below is an example for classifying patient risk level and assigning the surveillance interval
 
       ```
       python uie-main.py
