@@ -39,11 +39,11 @@
      │  uie-main.py
      ```
 
-   3. Below is an example for classifying patient risk level and assigning the surveillance interval
+3. Below is an example for classifying patient risk level and assigning the surveillance interval
 
-      ```
-      python uie-main.py
-      ```
+   ```
+   python uie-main.py
+   ```
 
       > `Patient_data.xlsx`  is  the patient data
       >
